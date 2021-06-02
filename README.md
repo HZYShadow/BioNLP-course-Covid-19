@@ -21,6 +21,7 @@
         grep -E "\bCellLine\b" entity.txt  > cell_line.txt
         grep -E "\bSpecies\b" entity.txt  > species.txt
 分别从实体中提取出基因、疾病、化合物、突变等六类实体信息
+data文件夹中为提取出的实体信息
 
 ## 4.分别统计出实体出现次数并绘制柱状图
 该部分详细代码见bionlp.R。该部分分别对基因、疾病、化合物出现次数进行统计，绘制出对应柱状图，并找出出现次数靠前的实体信息。同时，我们对基因在染色体上的分布情况进行了统计，并绘制出分布图
