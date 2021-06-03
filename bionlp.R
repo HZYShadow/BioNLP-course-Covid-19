@@ -1,10 +1,11 @@
+## create by å­™é˜³
 #sessionInfo()
 #R version 4.0.5 (2021-03-31)
 #Platform: x86_64-w64-mingw32/x64 (64-bit)
 #Running under: Windows 10 x64 (build 19042)
 
-#setwd() #½«¹¤×÷Ä¿Â¼ÉèÖÃÎª´æÓĞÎÄ±¾µÄÄ¿Â¼
-#¶ÁÈëÎÄ±¾ÎªÒ»¸ölist
+#setwd() #å°†å·¥ä½œç›®å½•è®¾ç½®ä¸ºå­˜æœ‰æ–‡æœ¬çš„ç›®å½•
+#è¯»å…¥æ–‡æœ¬ä¸ºä¸€ä¸ªlist
 filelist <- list.files(pattern=".*.txt")
 filelist
 m<-length(filelist)
@@ -13,13 +14,13 @@ names(entitylist)<-c("cell_lines","chemical","disease","gene","mutation","specie
 gene_table<-as.data.frame(table(entitylist[["gene"]]$ID)) 
 View(gene_table)
 gene_table[1,]
-gene_table<-gene_table[-1,]  #È¥³ıÃ»ÓĞÊ¶±ğ³É¹¦µÄ
-gene_ord<-gene_table[order(gene_table$Freq,decreasing = T),] #¶ÔÆµÂÊ½øĞĞ´Ó´óµ½Ğ¡ÅÅĞò
-head(gene_ord,10)  #²é¿´×î¶àµÄÇ°Ê®¸ö
-g1<-tapply(gene$ID,gene$pmid,table) ##ÁíÒ»ÖÖ³öÏÖÆµÂÊÍ³¼Æ·½·¨£¨°´ÕÕpmid£©
-##Èç¹û²»¿¼ÂÇ»ùÒòÊµÌåÔÚÎÄÕÂÄÚ²¿³öÏÖ´ÎÊı£¬Ö»¿¼ÂÇ¸Ã»ùÒòÊµÌåÊÇ·ñÔÚÄ³ÆªÎÄÕÂÖĞ³öÏÖ£¬ÒÔ´ËÀ´Í³¼ÆÆµÂÊ
-g<-gene[,-(2:5)] #Ö»È¡pmidºÍIDÁĞ
-g <- g[!duplicated(g),] #È¥ÖØ
+gene_table<-gene_table[-1,]  #å»é™¤æ²¡æœ‰è¯†åˆ«æˆåŠŸçš„
+gene_ord<-gene_table[order(gene_table$Freq,decreasing = T),] #å¯¹é¢‘ç‡è¿›è¡Œä»å¤§åˆ°å°æ’åº
+head(gene_ord,10)  #æŸ¥çœ‹æœ€å¤šçš„å‰åä¸ª
+g1<-tapply(gene$ID,gene$pmid,table) ##å¦ä¸€ç§å‡ºç°é¢‘ç‡ç»Ÿè®¡æ–¹æ³•ï¼ˆæŒ‰ç…§pmidï¼‰
+##å¦‚æœä¸è€ƒè™‘åŸºå› å®ä½“åœ¨æ–‡ç« å†…éƒ¨å‡ºç°æ¬¡æ•°ï¼Œåªè€ƒè™‘è¯¥åŸºå› å®ä½“æ˜¯å¦åœ¨æŸç¯‡æ–‡ç« ä¸­å‡ºç°ï¼Œä»¥æ­¤æ¥ç»Ÿè®¡é¢‘ç‡
+g<-gene[,-(2:5)] #åªå–pmidå’ŒIDåˆ—
+g <- g[!duplicated(g),] #å»é‡
 g2<-as.data.frame(table(g$ID))
 g2<-g2[-1,]
 go<-g2[order(g2$Freq,decreasing = T),]
@@ -31,8 +32,8 @@ p
 
 ##disease
 diease<-as.data.frame(entitylist[["diease"]])
-diease<-diease[!duplicated(diease$ID),] ##È¥ÖØ
-ace1<-g[g$ID=="1636",] #gÊÇ¾­¹ıÈ¥ÖØµÄgene table£¬ÇÒÖ»°üº¬pmidºÍID
+diease<-diease[!duplicated(diease$ID),] ##å»é‡
+ace1<-g[g$ID=="1636",] #gæ˜¯ç»è¿‡å»é‡çš„gene tableï¼Œä¸”åªåŒ…å«pmidå’ŒID
 ace1_d<-merge(ace1,diease,by="pmid")
 ace1_d<-ace1_d[,-(3:4)]
 ##chemical
@@ -42,16 +43,16 @@ chemical<-entitylist[["chemical"]]
 chemical_table<-merge(chemical_table,chemical,by.x="Var1",by.y = "ID")
 chemical_table<-chemical_table[-(3:6)]
 chemical_ord<-chemical_table[order(chemical_table$Freq,decreasing = T),]
-#»æÍ¼
+#ç»˜å›¾
 p<-ggplot(subset(chemical_table,Freq>500),aes(name,Freq))
 p<-p+geom_bar(stat = "identity")
 p<-p+theme(axis.text = element_text(angle = 45,hjust = 1)) 
-##»ùÒòÔÚÈ¾É«ÌåÉÏ·Ö²¼Çé¿öÖù×´Í¼
-gene_result<-read.csv(file.choose(),header = T,sep = "\t") #µ¼Èëgene_resultÎÄ¼ş
-hg<-gene_result[gene_result$Org_name=="Homo sapiens",] #»ñÈ¡ÈËÀà»ùÒò
-chr<-as.data.frame(table(hg$chromosome)) #»ñÈ¡È¾É«Ìå³öÏÖÆµ´Î
-chr<-chr[-1,] #È¥³ı¿ÕµÄ
-#»æÍ¼
+##åŸºå› åœ¨æŸ“è‰²ä½“ä¸Šåˆ†å¸ƒæƒ…å†µæŸ±çŠ¶å›¾
+gene_result<-read.csv(file.choose(),header = T,sep = "\t") #å¯¼å…¥gene_resultæ–‡ä»¶
+hg<-gene_result[gene_result$Org_name=="Homo sapiens",] #è·å–äººç±»åŸºå› 
+chr<-as.data.frame(table(hg$chromosome)) #è·å–æŸ“è‰²ä½“å‡ºç°é¢‘æ¬¡
+chr<-chr[-1,] #å»é™¤ç©ºçš„
+#ç»˜å›¾
 ggplot(data=chr,mapping=aes(x=Var1,y=Freq,fill=Var1,group=factor(1)))
   +   geom_bar(stat="identity")
   +   geom_text(aes(label = Freq, vjust = -0.8, hjust = 0.5, color = Var1))+xlab("Chromosome")+theme(legend.position = "none")
