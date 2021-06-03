@@ -1,3 +1,4 @@
+## author: 黄紫嫣
 ##利用pubtatordb中函数提取实体信息
 #软件包“ pubtatordb”提供了一组函数，这些函数使普通R用户可以轻松地下载“ PubTator”注释，创建然后查询数据库的本地版本。
 install.packages("pubtatordb")
