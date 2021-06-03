@@ -10,6 +10,8 @@
         nohup sh ~/bionlp/NCBI.sh &
 修改shell脚本权限，在后台运行脚本获得文献信息result.txt
 
+因为shell脚本挖文献的速度较慢，我们尝试了其他三种方式，相关代码在try文件夹中
+
 ## 3.提取出实体部分
         grep -vE "[0-9]{8}\|[ta]\|" result.txt > entity.txt
 过滤文章标题及摘要部分，仅提取出实体部分
