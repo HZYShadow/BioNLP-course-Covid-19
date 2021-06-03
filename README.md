@@ -8,7 +8,7 @@
 ## 2.获取文献摘要及实体信息
         chmod +x ./bionlp/NCBI.sh 
         nohup sh ~/bionlp/NCBI.sh &
-修改shell脚本权限，在后台运行脚本获得文献信息result.txt
+简化老师上课讲授shell脚本，修改shell脚本权限，在后台运行脚本获得文献信息result.txt
 
 因为shell脚本挖文献的速度较慢，我们尝试了其他三种方式，相关代码在try文件夹中
 
