@@ -1,0 +1,470 @@
+1. Front Cell Infect Microbiol. 2020 Nov 10;10:560616. doi: 
+10.3389/fcimb.2020.560616. eCollection 2020.
+
+An Update on Molecular Diagnostics for COVID-19.
+
+Islam KU(1), Iqbal J(1).
+
+Author information:
+(1)Multidisciplinary Center for Advanced Research and Studies, Jamia Millia 
+Islamia, New Delhi, India.
+
+A novel strain of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) 
+disease (COVID-19) has been recently identified as an infectious disease 
+affecting the respiratory system of humans. This disease is caused by SARS-CoV-2 
+that was identified in Chinese patients having severe pneumonia and flu-like 
+symptoms. COVID-19 is a contagious disease that spreads rapidly via droplet 
+particles arising through sneezing and coughing action of an infected person. 
+The reports of asymptomatic carriers changed the scenario of symptom 
+based-diagnosis in COVID-19 and intensified the need for proper diagnosis of the 
+majority of the population to combat the rapid transmission of virus. The 
+diagnosis of positive cases is necessary to ensure prompt care to affected 
+people and also to curb further spread of infection in the population. 
+Collecting samples at the right time and from the exact anatomical site is 
+crucial for proper molecular diagnosis. After the complete genome sequence was 
+available, China formulated RT-PCR as a primary diagnostic procedure for 
+detecting SARS-CoV-2. Many in-house and commercial diagnostic kits have been 
+developed or are under development that have a potential to lower the burden of 
+diagnosis on the primary diagnostic techniques like RT-PCR. Serological based 
+diagnosis is another broad category of testing that can detect different serum 
+antibodies like IgG, IgM, and IgA in an infected patient. PCR-based diagnostic 
+procedures that are commonly used for pathogen detection need sophisticated 
+machines and assistance of a technical expert. Despite their reliable accuracy, 
+they are not cost-effective tests, which a common man can afford, so it becomes 
+imperative to look for other diagnostic approaches, which could be cost 
+effective, rapid, and sensitive with consistent accuracy. To make such 
+diagnostics available to the common man, many techniques can be exploited among, 
+which are Point of Care (POC), also known as bed side testing, which is 
+developing as a portable and promising tool in pathogen diagnosis. Other lateral 
+flow assay (LFA)-based techniques like SHERLOCK, CRISPR-Cas12a (AIOD-CRISPR), 
+and FNCAS9 editor-limited uniform detection assay (FELUDA), etc. have shown 
+promising results in rapid detection of pathogens. Diagnosis holds a critical 
+importance in the pandemic situation when there is no potential drug for the 
+pathogen available in the market. This review sums up the different diagnostic 
+approaches designed or proposed to combat the crisis of widespread diagnosis due 
+to the sudden outbreak of a novel pathogen, SARS-CoV-2 in 2019.
+
+Copyright © 2020 Islam and Iqbal.
+
+DOI: 10.3389/fcimb.2020.560616
+PMCID: PMC7683783
+PMID: 33244462 [Indexed for MEDLINE]
+
+
+2. Int Immunopharmacol. 2021 Jan;90:107247. doi: 10.1016/j.intimp.2020.107247. Epub 
+2020 Dec 2.
+
+COVID-19 and cancer: From basic mechanisms to vaccine development using 
+nanotechnology.
+
+Han HJ(1), Nwagwu C(2), Anyim O(3), Ekweremadu C(4), Kim S(5).
+
+Author information:
+(1)University College London, Department of Neonatology, United Kingdom. 
+Electronic address: uclqhjh@ucl.ac.uk.
+(2)Department of Pharmaceutics, University of Nigeria Nsukka, Nigeria. 
+Electronic address: chinekwu.nwobi@unn.edu.ng.
+(3)Department of Internal Medicine, University of Nigeria Teaching Hospital 
+Ituku-Ozalla, Enugu, Nigeria.
+(4)Department of Pharmaceutics and Pharmaceutical Technology Enugu State 
+University of Science and Technology, Nigeria. Electronic address: 
+Chinedu.ekweremadu.17@alumni.ucl.ac.uk.
+(5)Basildon and Thurrock University Hospital, United Kingdom. Electronic 
+address: san.kim@btuh.nhs.uk.
+
+Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome 
+coronavirus 2 (SARS-CoV-2), is a global pandemic which has induced unprecedented 
+ramifications, severely affecting our society due to the long incubation time, 
+unpredictably high prevalence and lack of effective vaccines. One of the 
+interesting notions is that there is an association between COVID-19 and cancer. 
+Cancer patients seem to exhibit exacerbated conditions and a higher mortality 
+rate when exposed to the virus. Therefore, vaccines are the promising solution 
+to minimise the problem amongst cancer patients threatened by the new viral 
+strains. However, there are still limitations to be considered, including the 
+efficacy of COVID vaccines for immunocompromised individuals, possible 
+interactions between the vaccine and cancer, and personalised medicine. Not only 
+to eradicate the pandemic, but also to make it more effective for 
+immunocompromised patients who are suffering from cancer, a successful vaccine 
+platform is required through the implementation of nanotechnology which can also 
+enable scalable manufacturing and worldwide distribution along with its faster 
+and precise delivery. In this review, we summarise the current understanding of 
+COVID-19 with clinical perspectives, highlighting the association between 
+COVID-19 and cancer, followed by a vaccine development for this association 
+using nanotechnology. We suggest different administration methods for the 
+COVID-19 vaccine formulation options. This study will contribute to paving the 
+way towards the prevention and treatment of COVID-19, especially for the 
+immunocompromised individuals.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.intimp.2020.107247
+PMCID: PMC7709613
+PMID: 33307513 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declared that there is no conflict 
+of interest.
+
+
+3. Adv Drug Deliv Rev. 2021 Mar;170:1-25. doi: 10.1016/j.addr.2020.12.011. Epub 
+2020 Dec 24.
+
+COVID-19 vaccines: The status and perspectives in delivery points of view.
+
+Chung JY(1), Thone MN(1), Kwon YJ(2).
+
+Author information:
+(1)Department of Pharmaceutical Sciences, University of California, Irvine, CA 
+92697, United States of America.
+(2)Department of Pharmaceutical Sciences, University of California, Irvine, CA 
+92697, United States of America; Department of Chemical and Biomolecular 
+Engineering, University of California, Irvine, CA 92697, United States of 
+America; Department of Molecular Biology and Biochemistry, University of 
+California, Irvine, CA 92697, United States of America; Department of Biomedical 
+Engineering, University of California, Irvine, CA 92697, United States of 
+America. Electronic address: kwonyj@uci.edu.
+
+Due to the high prevalence and long incubation periods often without symptoms, 
+the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has infected 
+millions of individuals globally, causing the coronavirus disease 2019 
+(COVID-19) pandemic. Even with the recent approval of the anti-viral drug, 
+remdesivir, and Emergency Use Authorization of monoclonal antibodies against S 
+protein, bamlanivimab and casirimab/imdevimab, efficient and safe COVID-19 
+vaccines are still desperately demanded not only to prevent its spread but also 
+to restore social and economic activities via generating mass immunization. 
+Recent Emergency Use Authorization of Pfizer and BioNTech's mRNA vaccine may 
+provide a pathway forward, but monitoring of long-term immunity is still 
+required, and diverse candidates are still under development. As the knowledge 
+of SARS-CoV-2 pathogenesis and interactions with the immune system continues to 
+evolve, a variety of drug candidates are under investigation and in clinical 
+trials. Potential vaccines and therapeutics against COVID-19 include repurposed 
+drugs, monoclonal antibodies, antiviral and antigenic proteins, peptides, and 
+genetically engineered viruses. This paper reviews the virology and immunology 
+of SARS-CoV-2, alternative therapies for COVID-19 to vaccination, principles and 
+design considerations in COVID-19 vaccine development, and the promises and 
+roles of vaccine carriers in addressing the unique immunopathological challenges 
+presented by the disease.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.addr.2020.12.011
+PMCID: PMC7759095
+PMID: 33359141 [Indexed for MEDLINE]
+
+
+4. Viruses. 2020 Dec 10;12(12):1420. doi: 10.3390/v12121420.
+
+Comparison of Rapid Antigen Tests for COVID-19.
+
+Yamayoshi S(1), Sakai-Tagawa Y(1), Koga M(2)(3), Akasaka O(4), Nakachi I(5), Koh 
+H(6), Maeda K(7), Adachi E(3), Saito M(2)(3), Nagai H(3), Ikeuchi K(2)(3), Ogura 
+T(8), Baba R(5), Fujita K(8), Fukui T(6), Ito F(6), Hattori SI(7), Yamamoto 
+K(9), Nakamoto T(9), Furusawa Y(1), Yasuhara A(1), Ujie M(1), Yamada S(1), Ito 
+M(1), Mitsuya H(7), Omagari N(9), Yotsuyanagi H(2)(3), Iwatsuki-Horimoto K(1), 
+Imai M(1), Kawaoka Y(1)(10)(11).
+
+Author information:
+(1)Division of Virology, Department of Microbiology and Immunology, Institute of 
+Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+(2)Division of Infectious Diseases, Advanced Clinical Research Center, Institute 
+of Medical Science, University of Tokyo, Tokyo 108-8639, Japan.
+(3)Department of Infectious Diseases and Applied Immunology, IMSUT Hospital of 
+Institute of Medical Science, the University of Tokyo, Tokyo 108-8639, Japan.
+(4)Emergency Medical Center, Fujisawa City Hospital, Kanagawa 251-8550, Japan.
+(5)Pulmonary Division, Department of Internal Medicine, Saiseikai Utsunomiya 
+Hospital, Tochigi 321-0974, Japan.
+(6)Division of Pulmonary Medicine, Department of Internal Medicine, Tachikawa 
+Hospital, Tokyo 190-8531, Japan.
+(7)Department of Refractory Viral Infections, National Center for Global Health 
+and Medicine Research Institute, Tokyo 162-8655, Japan.
+(8)Department of Emergency Medicine and Critical Care Medicine, Saiseikai 
+Utsunomiya Hospital, Tochigi 321-0974, Japan.
+(9)Disease Control and Prevention Center, National Center for Global Health and 
+Medicine Hospital, Tokyo 162-8655, Japan.
+(10)Department of Pathobiological Sciences, School of Veterinary Medicine, 
+University of Wisconsin-Madison, Madison, WI 53706, USA.
+(11)Department of Special Pathogens, International Research Center for 
+Infectious Diseases, Institute of Medical Science, University of Tokyo, Tokyo 
+108-8639, Japan.
+
+Reverse transcription-quantitative PCR (RT-qPCR)-based tests are widely used to 
+diagnose coronavirus disease 2019 (COVID-19). As a result that these tests 
+cannot be done in local clinics where RT-qPCR testing capability is lacking, 
+rapid antigen tests (RATs) for COVID-19 based on lateral flow immunoassays are 
+used for rapid diagnosis. However, their sensitivity compared with each other 
+and with RT-qPCR and infectious virus isolation has not been examined. Here, we 
+compared the sensitivity among four RATs by using severe acute respiratory 
+syndrome coronavirus 2 (SARS-CoV-2) isolates and several types of COVID-19 
+patient specimens and compared their sensitivity with that of RT-qPCR and 
+infectious virus isolation. Although the RATs read the samples containing large 
+amounts of virus as positive, even the most sensitive RAT read the samples 
+containing small amounts of virus as negative. Moreover, all RATs tested failed 
+to detect viral antigens in several specimens from which the virus was isolated. 
+The current RATs will likely miss some COVID-19 patients who are shedding 
+infectious SARS-CoV-2.
+
+DOI: 10.3390/v12121420
+PMCID: PMC7764512
+PMID: 33322035 [Indexed for MEDLINE]
+
+Conflict of interest statement: Yoshihiro Kawaoka obtained funds to organize a 
+symposium, “Influenza and Other Infections” in 2019 from TAUNS Laboratories, 
+Inc. Kei Yamamoto has received grant support from Fujirebio, Inc.
+
+
+5. Eur J Clin Microbiol Infect Dis. 2021 Jan;40(1):13-25. doi: 
+10.1007/s10096-020-04088-z. Epub 2020 Oct 28.
+
+Recurrence of SARS-CoV-2 viral RNA in recovered COVID-19 patients: a narrative 
+review.
+
+Dao TL(1)(2)(3), Hoang VT(1)(2)(3), Gautret P(4)(5).
+
+Author information:
+(1)IRD, AP-HM, SSA, VITROME, Institut Hospitalo-Universitaire Méditerranée 
+Infection, Aix Marseille University, 19-21 Boulevard Jean Moulin, 13385, 
+Marseille Cedex 05, France.
+(2)IHU-Méditerranée Infection, Marseille, France.
+(3)Thai Binh University of Medicine and Pharmacy, Thai Binh, Vietnam.
+(4)IRD, AP-HM, SSA, VITROME, Institut Hospitalo-Universitaire Méditerranée 
+Infection, Aix Marseille University, 19-21 Boulevard Jean Moulin, 13385, 
+Marseille Cedex 05, France. philippe.gautret@club-internet.fr.
+(5)IHU-Méditerranée Infection, Marseille, France. 
+philippe.gautret@club-internet.fr.
+
+Many studies have shown that re-positive tests for SARS-CoV-2 by RT-PCR in 
+recovered COVID-19 patients are very common. We aim to conduct this review to 
+summarize the clinical and epidemiological characteristics of these patients and 
+discuss the potential explanations for recurrences, the contagiousness of 
+re-detectable positive SARS-CoV-2 virus, and the management of COVID-19 patients 
+after discharge from hospital. The proportion of re-positive tests in discharged 
+COVID-19 patients varied from 2.4 to 69.2% and persisted from 1 to 38 days after 
+discharge, depending on population size, age of patients, and type of specimens. 
+Currently, several causes of re-positive tests for SARS-CoV-2 in recovered 
+COVID-19 patients are suggested, including false-negative, false-positive RT-PCR 
+tests; reactivation; and re-infection with SARS-CoV-2, but the mechanism leading 
+to these re-positive cases is still unclear. The prevention of re-positive 
+testing in discharged patients is a fundamental measure to control the spread of 
+the pandemic. In order to reduce the percentage of false-negative tests prior to 
+discharge, we recommend performing more than two tests, according to the 
+standard sampling and microbiological assay protocol. In addition, specimens 
+should be collected from multiple body parts if possible, to identify SARS-CoV-2 
+viral RNA before discharge. Further studies should be conducted to develop novel 
+assays that target a crucial region of the RNA genome in order to improve its 
+sensitivity and specificity.
+
+DOI: 10.1007/s10096-020-04088-z
+PMCID: PMC7592450
+PMID: 33113040 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+6. Life Sci. 2021 Feb 15;267:118919. doi: 10.1016/j.lfs.2020.118919. Epub 2020 Dec 
+19.
+
+DNA vaccines against COVID-19: Perspectives and challenges.
+
+Silveira MM(1), Moreira GMSG(2), Mendonça M(3).
+
+Author information:
+(1)Faculty Anhanguera, Department of Pharmacy, Pelotas, Rio Grande do Sul, 
+Brazil. Electronic address: marcellemsilveira@gmail.com.
+(2)Institut für Biochemie, Biotechnologie und Bioinformatik, Technische 
+Universität Braunschweig, Braunschweig, Germany.
+(3)Federal University of Agreste of Pernambuco, Veterinary Medicine Course, 
+Garanhuns, Pernambuco, Brazil.
+
+The coronavirus disease 2019 (COVID-19) is caused by a novel coronavirus known 
+as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which is 
+associated with several fatal cases worldwide. The rapid spread of this pathogen 
+and the increasing number of cases highlight the urgent development of vaccines. 
+Among the technologies available for vaccine development, DNA vaccination is a 
+promising alternative to conventional vaccines. Since its discovery in the 
+1990s, it has been of great interest because of its ability to elicit both 
+humoral and cellular immune responses while showing relevant advantages 
+regarding producibility, stability, and storage. This review aimed to summarize 
+the current knowledge and advancements on DNA vaccines against COVID-19, 
+particularly those in clinical trials.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.lfs.2020.118919
+PMCID: PMC7749647
+PMID: 33352173 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared no conflict of 
+interest.
+
+
+7. J Biomed Sci. 2020 Dec 20;27(1):104. doi: 10.1186/s12929-020-00695-2.
+
+Coronavirus vaccine development: from SARS and MERS to COVID-19.
+
+Li YD(1), Chi WY(2), Su JH(1), Ferrall L(2), Hung CF(2), Wu TC(3)(4).
+
+Author information:
+(1)Department of Molecular and Cellular Biology, Harvard University, Cambridge, 
+MA, USA.
+(2)Department of Pathology, School of Medicine, Johns Hopkins University, 
+Baltimore, MD, USA.
+(3)Department of Pathology, School of Medicine, Johns Hopkins University, 
+Baltimore, MD, USA. wutc@jhmi.edu.
+(4)Johns Hopkins School of Medicine, 1550 Orleans St, CRB II - Room 309, 
+Baltimore, MD, 21287, USA. wutc@jhmi.edu.
+
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) is a new type of 
+coronavirus that causes the Coronavirus Disease 2019 (COVID-19), which has been 
+the most challenging pandemic in this century. Considering its high mortality 
+and rapid spread, an effective vaccine is urgently needed to control this 
+pandemic. As a result, the academia, industry, and government sectors are 
+working tightly together to develop and test a variety of vaccines at an 
+unprecedented pace. In this review, we outline the essential coronavirus 
+biological characteristics that are important for vaccine design. In addition, 
+we summarize key takeaways from previous vaccination studies of Severe Acute 
+Respiratory Syndrome Coronavirus (SARS-CoV) and Middle East Respiratory Syndrome 
+Coronavirus (MERS-CoV), highlighting the pros and cons of each immunization 
+strategy. Finally, based on these prior vaccination experiences, we discuss 
+recent progress and potential challenges of COVID-19 vaccine development.
+
+DOI: 10.1186/s12929-020-00695-2
+PMCID: PMC7749790
+PMID: 33341119 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr T.C. Wu is a co-founder of and has an equity 
+ownership interest in Papivax LLC. Additionally Dr. Wu owns Papivax Biotech Inc. 
+stock options and is a member of Papivax Biotech Inc.’s Scientific Advisory 
+Board. This arrangement has been reviewed and approved by the Johns Hopkins 
+University in accordance with its conflict of interest policies.
+
+
+8. Ann Intern Med. 2021 Feb;174(2):221-228. doi: 10.7326/M20-6169. Epub 2020 Oct 
+22.
+
+Clinical Endpoints for Evaluating Efficacy in COVID-19 Vaccine Trials.
+
+Mehrotra DV(1), Janes HE(2), Fleming TR(3), Annunziato PW(4), Neuzil KM(5), 
+Carpp LN(2), Benkeser D(6), Brown ER(3), Carone M(3), Cho I(7), Donnell D(2), 
+Fay MP(8), Fong Y(2), Han S(9), Hirsch I(10), Huang Y(2), Huang Y(2), Hyrien 
+O(2), Juraska M(2), Luedtke A(11), Nason M(8), Vandebosch A(12), Zhou H(9), 
+Cohen MS(13), Corey L(3), Hartzel J(1), Follmann D(8), Gilbert PB(3).
+
+Author information:
+(1)Biostatistics and Research Decision Sciences, Merck & Co., North Wales, 
+Pennsylvania (D.V.M., J.H.).
+(2)Fred Hutchinson Cancer Research Center, Seattle, Washington (H.E.J., L.N.C., 
+D.D., Y.F., Y.H., Y.H., O.H., M.J.).
+(3)Fred Hutchinson Cancer Research Center and University of Washington, Seattle, 
+Washington (T.R.F., E.R.B., M.C., L.C., P.B.G.).
+(4)Vaccines Clinical Research, Merck & Co., Kenilworth, New Jersey (P.W.A.).
+(5)University of Maryland School of Medicine, Baltimore, Maryland (K.M.N.).
+(6)Rollins School of Public Health, Emory University, Atlanta, Georgia (D.B.).
+(7)Novavax, Gaithersburg, Maryland (I.C.).
+(8)National Institute of Allergy and Infectious Diseases, Bethesda, Maryland 
+(M.P.F., M.N., D.F.).
+(9)Moderna, Cambridge, Massachusetts (S.H., H.Z.).
+(10)AstraZeneca, Cambridge, United Kingdom (I.H.).
+(11)University of Washington, Seattle, Washington (A.L.).
+(12)Janssen Pharmaceuticals, Beerse, Belgium (A.V.).
+(13)Institute for Global Health and Infectious Diseases, University of North 
+Carolina, Chapel Hill, North Carolina (M.S.C.).
+
+Several vaccine candidates to protect against severe acute respiratory syndrome 
+coronavirus 2 (SARS-CoV-2) infection or coronavirus disease 2019 (COVID-19) have 
+entered or will soon enter large-scale, phase 3, placebo-controlled randomized 
+clinical trials. To facilitate harmonized evaluation and comparison of the 
+efficacy of these vaccines, a general set of clinical endpoints is proposed, 
+along with considerations to guide the selection of the primary endpoints on the 
+basis of clinical and statistical reasoning. The plausibility that vaccine 
+protection against symptomatic COVID-19 could be accompanied by a shift toward 
+more SARS-CoV-2 infections that are asymptomatic is highlighted, as well as the 
+potential implications of such a shift.
+
+DOI: 10.7326/M20-6169
+PMCID: PMC7596738
+PMID: 33090877 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures: Disclosures can be viewed at 
+www.acponline.org/authors/icmje/ConflictOfInterestForms.do?msNum=M20-6169.
+
+
+9. Biosens Bioelectron. 2021 Jan 15;172:112752. doi: 10.1016/j.bios.2020.112752. 
+Epub 2020 Oct 24.
+
+COVID-19 diagnosis -A review of current methods.
+
+Yüce M(1), Filiztekin E(2), Özkaya KG(2).
+
+Author information:
+(1)SUNUM Nanotechnology Research and Application Centre, Sabanci University, 
+34956, Orhanli, Tuzla, Istanbul, Turkey. Electronic address: 
+meralyuce@sabanciuniv.edu.
+(2)Faculty of Engineering and Natural Sciences and, Sabanci University, 34956, 
+Orhanli, Tuzla, Istanbul, Turkey.
+
+A fast and accurate self-testing tool for COVID-19 diagnosis has become a 
+prerequisite to comprehend the exact number of cases worldwide and to take 
+medical and governmental actions accordingly. SARS-CoV-2 (formerly, 2019-nCoV) 
+infection was first reported in Wuhan (China) in December 2019, and then it has 
+rapidly spread around the world, causing ~14 million active cases with ~582,000 
+deaths as of July 2020. The diagnosis tools available so far have been based on 
+a) viral gene detection, b) human antibody detection, and c) viral antigen 
+detection, among which the viral gene detection by RT-PCR has been found as the 
+most reliable technique. In this report, the current SARS-CoV-2 detection kits, 
+exclusively the ones that were issued an "Emergency Use Authorization" from the 
+U.S. Food and Drug Administration, were discussed. The key structural components 
+of the virus were presented to provide the audience with an understanding of the 
+scientific principles behind the testing tools. The methods that are still in 
+the early research state were also reviewed in a subsection based on the reports 
+available so far.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2020.112752
+PMCID: PMC7584564
+PMID: 33126180 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+10. J Med Virol. 2020 Oct;92(10):2004-2010. doi: 10.1002/jmv.25930. Epub 2020 May 7.
+
+Characteristics of patients with coronavirus disease (COVID-19) confirmed using 
+an IgM-IgG antibody test.
+
+Xie J(1), Ding C(1), Li J(1), Wang Y(1), Guo H(2), Lu Z(1), Wang J(1), Zheng 
+C(1), Jin T(3), Gao Y(1), He H(1).
+
+Author information:
+(1)Division of Life Sciences and Medicine, The First Affiliated Hospital of 
+USTC, University of Science and Technology of China, Hefei, Anhui, China.
+(2)Department of Breast and Thyroid Surgery, Union Hospital, Tongji Medical 
+College, Huazhong University of Science and Technology, Wuhan, Hubei, China.
+(3)Division of Life Sciences and Medicine, Laboratory of Structural Immunology, 
+University of Science and Technology of China (USTC), Hefei, Anhui, China.
+
+Coronavirus disease (COVID-19), caused by a novel betacoronavirus, severe acute 
+respiratory syndrome coronavirus 2 (SARS-CoV-2), has rapidly developed into a 
+pandemic since it was first reported in December 2019. Nucleic acid testing is 
+the standard method for the diagnosis of viral infections. However, this method 
+reportedly has a low positivity rate. To increase the sensitivity of COVID-19 
+diagnoses, we developed an IgM-IgG combined assay and tested it in patients with 
+suspected SARS-CoV-2 infection. In total, 56 patients were enrolled in this 
+study and SARS-CoV-2 was detected by using both IgM-IgG antibody and nucleic 
+acid tests. Clinical and laboratory data were collected and analyzed. Our 
+findings suggest that patients who develop severe illness might experience 
+longer virus exposure times and develop a more severe inflammatory response. The 
+IgM-IgG test is an accurate and sensitive diagnostic method. A combination of 
+nucleic acid and IgM-IgG testing is a more sensitive and accurate approach for 
+diagnosis and early treatment of COVID-19.
+
+© 2020 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.25930
+PMCID: PMC7264659
+PMID: 32330303 [Indexed for MEDLINE]
+
+Conflict of interest statement: All the authors declare that there are no 
+conflict of interests.
